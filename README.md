@@ -4,5 +4,6 @@ Practical Deep Learning for Coders 2022. See [course.fast.ai](https://course.fas
 
 ## Projects
 
-- https://huggingface.co/spaces/ezhikpizhik/cat_dog2
+- Dog vs cat classifier
+  https://huggingface.co/spaces/ezhikpizhik/cat_dog2
 
